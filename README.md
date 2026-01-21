@@ -78,7 +78,6 @@ java -cp src Solution.Solution
 =========================================
 YUKI'S SUPERMARKET RECEIPT     
 =========================================
-Date: January 21, 2026
 Cashier: Self-service terminal
 ----------------------------------------
 Item                        Qty   Price    Amount
