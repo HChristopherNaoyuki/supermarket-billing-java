@@ -210,7 +210,7 @@ public class Solution
         }
     }
 
-    private static void viewCart(ArrayList<CartItem> cart)
+    static void viewCart(ArrayList<CartItem> cart)
     {
         if (cart.isEmpty())
         {
@@ -234,7 +234,7 @@ public class Solution
         System.out.println();
     }
 
-    private static void printReceipt(ArrayList<CartItem> cart, double taxRate)
+    static void printReceipt(ArrayList<CartItem> cart, double taxRate)
     {
         double subtotal = 0;
         double tax = 0;
