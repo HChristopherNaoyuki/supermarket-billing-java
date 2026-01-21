@@ -243,7 +243,6 @@ public class Solution
         System.out.println("=========================================");
         System.out.println("YUKI'S SUPERMARKET RECEIPT");
         System.out.println("=========================================");
-        System.out.println("Date: January 21, 2026");
         System.out.println("Cashier: Self-service terminal");
         System.out.println("----------------------------------------");
         System.out.println("Item                        Qty   Price    Amount");
