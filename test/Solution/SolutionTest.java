@@ -106,7 +106,7 @@ public class SolutionTest
         String receipt = outputCapture.toString();
 
         // Basic content checks
-        assertTrue(receipt.contains("NAOYUKI SUPERMARKET RECEIPT"));
+        assertTrue(receipt.contains("YUKI'S SUPERMARKET RECEIPT"));
         assertTrue(receipt.contains("Apples 1kg"));
         assertTrue(receipt.contains("Orange Juice 2L"));
         assertTrue(receipt.contains("SUBTOTAL"));

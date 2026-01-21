@@ -97,7 +97,7 @@ public class Solution
     private static void printWelcomeMessage()
     {
         System.out.println("=====================================");
-        System.out.println("   WELCOME TO NAOYUKI SUPERMARKET    ");
+        System.out.println("WELCOME TO YUKI'S SUPERMARKET");
         System.out.println("=====================================");
         System.out.println("Date: January 21, 2026");
         System.out.println();
@@ -241,7 +241,7 @@ public class Solution
         double grandTotal = 0;
 
         System.out.println("=========================================");
-        System.out.println("         NAOYUKI SUPERMARKET RECEIPT     ");
+        System.out.println("YUKI'S SUPERMARKET RECEIPT");
         System.out.println("=========================================");
         System.out.println("Date: January 21, 2026");
         System.out.println("Cashier: Self-service terminal");
