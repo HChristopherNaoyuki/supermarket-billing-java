@@ -99,7 +99,6 @@ public class Solution
         System.out.println("=====================================");
         System.out.println("WELCOME TO YUKI'S SUPERMARKET");
         System.out.println("=====================================");
-        System.out.println("Date: January 21, 2026");
         System.out.println();
     }
 
